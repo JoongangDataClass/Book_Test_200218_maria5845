@@ -1,6 +1,6 @@
 package test;
 
-//Vo 
+//Vo User 생성 조건 
 /*
  * -id : String 
  * -pw : String 
